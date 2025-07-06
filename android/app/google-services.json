@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469959485469",
+    "project_id": "min-app-114c6",
+    "storage_bucket": "min-app-114c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469959485469:android:eb51e85da0236a93f7fef4",
+        "android_client_info": {
+          "package_name": "com.example.notetaking_minapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCijQ05DekiB7q2w_xxvn4rxDdoW_hmB18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
