@@ -87,25 +87,7 @@ This will auto-generate firebase_options.dart used in your app
 
 An Architecture Diagram:
 
-lib/
-├── models/
-│   ├── app_user.dart         # Defines the user data structure
-│   └── note.dart             # Represents a note with Firestore integration
-├── provider/
-│   ├── auth_provider.dart    # Manages authentication state
-│   └── notes_provider.dart   # Handles notes state using real-time streams
-├── repositories/
-│   ├── auth_repository.dart  # Encapsulates Firebase Auth logic
-│   └── notes_repository.dart # Manages Firestore CRUD operations
-├── screens/
-│   ├── sign_in_screen.dart   # UI for user sign-in
-│   ├── sign_up_screen.dart   # UI for user registration
-│   └── notes_screen.dart     # Main UI for displaying and managing notes
-├── widgets/
-│   ├── auth_wrapper.dart     # Redirects based on auth state
-│   ├── add_note_dialog.dart  # Dialog for creating notes with input validation
-│   └── edit_note_dialog.dart # Dialog for editing notes with input validation
-├── utils/
-│   └── validators.dart       # Common input validation functions
-├── firebase_options.dart     # Auto-generated Firebase setup
-└── main.dart                 # App entry point and provider initialization
+<img width="473" alt="XXXaaa" src="https://github.com/user-attachments/assets/8cc4cdf0-566b-4fe7-87f1-14f1d3418364" />
+
+
+
